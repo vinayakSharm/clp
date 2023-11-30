@@ -1,0 +1,2 @@
+/usr/bin/ar qc libKQL.a  CMakeFiles/KQL.dir/antlr4cpp_generated_src/KQL/KQLLexer.cpp.o CMakeFiles/KQL.dir/antlr4cpp_generated_src/KQL/KQLParser.cpp.o CMakeFiles/KQL.dir/antlr4cpp_generated_src/KQL/KQLBaseVisitor.cpp.o CMakeFiles/KQL.dir/antlr4cpp_generated_src/KQL/KQLVisitor.cpp.o
+/usr/bin/ranlib libKQL.a

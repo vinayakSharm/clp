@@ -1,0 +1,13 @@
+# Target labels
+ antlr4_runtime
+# Source files and their labels
+/mnt/clp/build/CMakeFiles/antlr4_runtime
+/mnt/clp/build/CMakeFiles/antlr4_runtime.rule
+/mnt/clp/build/CMakeFiles/antlr4_runtime-complete.rule
+/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-install.rule
+/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-mkdir.rule
+/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-download.rule
+/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-update.rule
+/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-patch.rule
+/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-configure.rule
+/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-build.rule

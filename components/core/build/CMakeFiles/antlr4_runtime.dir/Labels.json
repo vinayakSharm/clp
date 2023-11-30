@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/clp/build/CMakeFiles/antlr4_runtime"
+		},
+		{
+			"file" : "/mnt/clp/build/CMakeFiles/antlr4_runtime.rule"
+		},
+		{
+			"file" : "/mnt/clp/build/CMakeFiles/antlr4_runtime-complete.rule"
+		},
+		{
+			"file" : "/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-install.rule"
+		},
+		{
+			"file" : "/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-download.rule"
+		},
+		{
+			"file" : "/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-update.rule"
+		},
+		{
+			"file" : "/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-patch.rule"
+		},
+		{
+			"file" : "/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-configure.rule"
+		},
+		{
+			"file" : "/mnt/clp/build/antlr4_runtime/src/antlr4_runtime-stamp/antlr4_runtime-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"antlr4_runtime"
+		],
+		"name" : "antlr4_runtime"
+	}
+}
